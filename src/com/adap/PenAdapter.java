@@ -1,5 +1,6 @@
 package com.adap;
 
+// Pen Adapter implements Pen
 public class PenAdapter implements Pen
 {
 	PilotPen pp = new PilotPen();
